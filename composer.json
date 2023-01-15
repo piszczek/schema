@@ -15,7 +15,7 @@
         "nikic/iter": "^2.0",
         "biera/array-accessor": "^1.0",
         "oas-php/resolver": "dev-master",
-        "laminas/laminas-code": "^4.4",
+        "laminas/laminas-code": "^4.8",
         "oas-php/utils": "master-dev"
     },
     "require-dev": {
